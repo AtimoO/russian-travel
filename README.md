@@ -9,4 +9,4 @@
 * flex
 * @media
 
-## [Ссылка](https://validator.w3.org/nu/.) на GitHub Pages
+## [Ссылка](https://atimoo.github.io/russian-travel/) на GitHub Pages
