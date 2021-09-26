@@ -1,6 +1,12 @@
 .header {
-  width: 100%;
-  margin: 0 auto;
-  padding-bottom: 62px;
-  position: relative;
+  grid-area: header;
+  padding-bottom: 56px;
+  display: flex;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 1279px) {
+  .header {
+    padding-bottom: 48px;
+  }
 }

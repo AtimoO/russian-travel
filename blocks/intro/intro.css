@@ -1,16 +1,16 @@
-.lead {
-  display: grid;
+.intro {
   padding-bottom: 92px;
+  box-sizing: border-box;
 }
 
 @media screen and (max-width: 1023px) {
-  .lead {
+  .intro {
     padding-bottom: 88px;
   }
 }
 
 @media screen and (max-width: 767px) {
-  .lead {
+  .intro {
     padding-bottom: 64px;
   }
 }
