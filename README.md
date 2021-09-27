@@ -10,3 +10,6 @@
 * @media
 
 ## [Ссылка](https://atimoo.github.io/russian-travel/) на GitHub Pages
+
+## Дальнейшая работа:
+Поправить замечания с пометкой "можно лучше"

@@ -19,7 +19,7 @@
   transition: opacity .3s ease-out;
 }
 
-.cover__link:hover {
+.cover__link:hover::before {
   content: "";
   position: absolute;
   width: 100%;
